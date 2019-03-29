@@ -1,0 +1,79 @@
+html {
+  scroll-behavior: smooth;
+}
+
+h1 {
+  color: #0000FF;
+  text-align: center;
+}
+
+body {
+  width:100%;
+}
+.container{
+  margin-top: 50px;
+}
+.list-group-item {
+  cursor: pointer;
+}
+
+
+.correct {
+  background-color: #289a27;
+}
+
+
+.incorrect {
+  background-color: #c41a21;
+}
+
+.buttons {
+  padding: 10px 10px 10px 0;
+}
+
+.icons{
+  font-size: 60px;
+}
+a {
+  margin-left: 30px;
+  display: inline;
+  list-style-position: inside;
+  font-size: 30px;
+  text-align: center;
+}
+
+.fa{
+  font-size: 60px;
+}
+.social{
+  display: flex;
+  flex-direction: column;
+  align-items: center ;
+}
+.button {
+  display: flex;
+  justify-content: center;
+}
+.stopka{
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  position:fixed;
+  bottom:0;
+  width:100%;
+  height:30px;
+  background:limegreen;
+
+}
+.scroll {
+  position: fixed;
+  bottom: 40px;
+  right: 5px;
+  display: none;
+}
+.correct {
+  background-color: green;
+}
+.incorrect{
+  background-color: red;
+}
