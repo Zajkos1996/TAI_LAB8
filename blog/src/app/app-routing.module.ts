@@ -4,6 +4,8 @@ import {HomeComponent} from "./components/home/home.component";
 import {ContactComponent} from "./components/contact/contact.component";
 import {BlogComponent} from "./components/blog/blog.component";
 import {QuizComponent} from "./components/quiz/quiz.component";
+import {BlogItemDetailsComponent} from "./components/blog-item-details/blog-item-details.component";
+import {BlogHomeComponent} from "./components/blog-home/blog-home.component";
 
 const routes: Routes = [
   {
@@ -14,16 +16,25 @@ const routes: Routes = [
     path: 'contact',
     component: ContactComponent,
   },
-  {
-    path: 'blog',
-component: BlogComponent,
-
-},
+//   {
+//     path: 'blog',
+// component: BlogComponent,
+//
+// },
+  {path: 'blog',
+component: BlogHomeComponent},
 {
   path: 'quiz',
     component: QuizComponent,
 
-}];
+},
+
+{
+  path: 'blog/detail/:id',
+  component: BlogItemDetailsComponent
+},
+
+];
 
 
 @NgModule({
