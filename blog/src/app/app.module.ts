@@ -21,6 +21,7 @@ import { SearchBarComponent } from './shared/search-bar/search-bar.component';
 import { BlogHomeComponent } from './components/blog-home/blog-home.component';
 import { TextFormatDirective } from './directives/text-format.directive';
 import { FilterPipe } from './pipes/filter.pipe';
+import { SelectizeComponent } from './components/selectize/selectize.component';
 
 @NgModule({
   declarations: [
@@ -39,6 +40,7 @@ import { FilterPipe } from './pipes/filter.pipe';
     SearchBarComponent,
     TextFormatDirective,
     FilterPipe,
+    SelectizeComponent
   ],
   imports: [
     BrowserModule,
