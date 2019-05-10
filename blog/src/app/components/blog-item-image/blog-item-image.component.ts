@@ -6,7 +6,7 @@ import {Component, Input, OnInit} from '@angular/core';
   styleUrls: ['./blog-item-image.component.css']
 })
 export class BlogItemImageComponent implements OnInit {
-  @Input() image:string;
+  @Input() image = '';
 
   constructor() { }
 
