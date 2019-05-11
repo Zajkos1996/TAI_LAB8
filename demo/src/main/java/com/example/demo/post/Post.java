@@ -3,13 +3,13 @@ package com.example.demo.post;
 public class Post {
     private long id;
     private String title;
-    private String url;
+    private String image;
     private String content;
 
-    public Post(long id, String title, String url, String content){
+    public Post(long id, String title, String image, String content){
         this.id = id;
         this.title = title;
-        this.url = url;
+        this.image = image;
         this.content = content;
     }
 
@@ -21,8 +21,8 @@ public class Post {
         return title;
     }
 
-    public String getUrl() {
-        return url;
+    public String getImage() {
+        return image;
     }
 
     public String getContent() {
@@ -37,8 +37,8 @@ public class Post {
         this.title = title;
     }
 
-    public void setUrl(String url) {
-        this.url = url;
+    public void setImage(String image) {
+        this.image = image;
     }
 
     public void setContent(String content) {
