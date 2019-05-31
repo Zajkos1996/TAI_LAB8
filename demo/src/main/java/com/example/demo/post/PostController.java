@@ -8,13 +8,13 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-@CrossOrigin(origins = "http://localhost:4200")
+/*@CrossOrigin(origins = "http://localhost:4200")*/
 
 @RestController
 public class PostController {
-     private PostService postService;
+   /*  private PostService postService;*/
 
-     @Autowired
+/*     @Autowired
     public PostController(PostService postService){
          this.postService = postService;
      }
@@ -27,5 +27,5 @@ public class PostController {
      @GetMapping("/api/posts/{id}")
     public Post get(@PathVariable int id){
          return postService.get(id);
-     }
+     }*/
 }
