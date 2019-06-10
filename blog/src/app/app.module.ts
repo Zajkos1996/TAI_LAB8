@@ -25,7 +25,8 @@ import { TextFormatDirective } from './directives/text-format.directive';
 import { FilterPipe } from './pipes/filter.pipe';
 import { SelectizeComponent } from './components/selectize/selectize.component';
 import { NewPostComponent } from './components/new-post/new-post.component';
-import {LoginComponent} from './components/login/login.component'
+import {LoginComponent} from './components/login/login.component';
+import { AddPostComponent } from './components/add-post/add-post.component';
 
 @NgModule({
   declarations: [
@@ -46,7 +47,8 @@ import {LoginComponent} from './components/login/login.component'
     FilterPipe,
     SelectizeComponent,
     NewPostComponent,
-    LoginComponent
+    LoginComponent,
+    AddPostComponent
   ],
   imports: [
     BrowserModule,
