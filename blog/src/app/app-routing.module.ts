@@ -20,30 +20,28 @@ const routes: Routes = [
   },
   {
     path: 'blog',
-component: BlogComponent,
-
-},
-  {path: 'blog',
-component: BlogHomeComponent},
-{
-  path: 'quiz',
+    component: BlogHomeComponent},
+  {
+    path: 'quiz',
     component: QuizComponent,
 
-},
+  },
 
-{
-  path: 'blog/detail/:id',
-  component: BlogItemDetailsComponent
-},
+  {
+    path: 'blog/detail/:id',
+    component: BlogItemDetailsComponent
+  },
+
+  {
+    path: 'login',
+    component: LoginComponent
+  },
 
   {
     path: 'add-post',
     component: AddPostComponent
-  },
-  {
-    path: 'app-login',
-    component: LoginComponent
   }
+
 
 ];
 
