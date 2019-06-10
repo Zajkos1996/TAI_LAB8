@@ -9,11 +9,14 @@ const postSchema = new mongoose.Schema({
   image: {type: String},
   text: {type: String}
 }, {
-  collection: 'jl-post'
+  collection: 'ak-post'
 });
 postSchema.plugin(uniqueValidator);
 
-const PostModel = mongoose.model('jl-post', postSchema);
+const PostModel = mongoose.model('ak-post', postSchema);
+/*
+PostModel.collection.drop();
+*/
 
 async function query() {
   const result = await PostModel.find({});

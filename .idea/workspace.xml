@@ -2,95 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="025b71ab-d149-4079-a19c-f7940e74be0b" name="Default Changelist" comment="Lab9">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/api/DAO/postDAO.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/api/DAO/postDAO.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/api/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/api/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/api/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/api/public/es2015-polyfills.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/api/public/es2015-polyfills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/api/public/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/blog/api/public/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/api/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/api/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/api/public/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/api/public/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/api/public/polyfills.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/api/public/polyfills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/api/public/runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/api/public/runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/api/public/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/api/public/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/api/public/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/api/public/vendor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/app/components/add-post/add-post.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/add-post/add-post.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/app/components/add-post/add-post.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/add-post/add-post.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/app/components/add-post/add-post.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/add-post/add-post.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/app/components/blog-home/blog-home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/blog-home/blog-home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/app/components/login/login.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/login/login.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/app/components/new-post/new-post.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/new-post/new-post.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/app/components/new-post/new-post.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/new-post/new-post.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/app/components/new-post/new-post.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/components/new-post/new-post.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/app/services/authentication.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/services/authentication.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/app/services/data.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/services/data.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/app/services/interceptor-auth.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/services/interceptor-auth.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/src/app/services/interceptor-auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/app/services/interceptor-auth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-home/blog-home.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/src/app/app-routing.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/src/app/components/login/login.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/src/app/components/login/login.component.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/src/app/services/interceptor-auth.service.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="9" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog/blog.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog/blog.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-              <folding>
-                <element signature="e#0#77#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-home/blog-home.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,7 +57,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/blog/api" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -152,27 +97,29 @@
         <option value="$PROJECT_DIR$/blog/api/package.json" />
         <option value="$PROJECT_DIR$/blog/src/app/components/new-post/new-post.component.ts" />
         <option value="$PROJECT_DIR$/blog/src/app/shared/search-bar/search-bar.component.html" />
-        <option value="$PROJECT_DIR$/blog/api/DAO/postDAO.js" />
         <option value="$PROJECT_DIR$/blog/api/REST/post.endpoint.js" />
         <option value="$PROJECT_DIR$/blog/api/business/post.manager.js" />
         <option value="$PROJECT_DIR$/blog/api/service/applicationException.js" />
         <option value="$PROJECT_DIR$/blog/api/public/index.html" />
         <option value="$PROJECT_DIR$/blog/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/blog/src/app/components/add-post/add-post.component.html" />
         <option value="$PROJECT_DIR$/blog/src/app/components/add-post/add-post.component.spec.ts" />
         <option value="$PROJECT_DIR$/blog/src/app/components/add-post/add-post.component.ts" />
-        <option value="$PROJECT_DIR$/blog/src/app/services/data.service.ts" />
         <option value="$PROJECT_DIR$/blog/api/app/app.js" />
         <option value="$PROJECT_DIR$/blog/src/app/navbar/navbar.component.html" />
         <option value="$PROJECT_DIR$/blog/src/app/components/blog-home/blog-home.component.ts" />
-        <option value="$PROJECT_DIR$/blog/src/app/components/blog-home/blog-home.component.html" />
         <option value="$PROJECT_DIR$/blog/.gitignore" />
         <option value="$PROJECT_DIR$/blog/src/app/app-routing.module.ts" />
         <option value="$PROJECT_DIR$/blog/src/app/components/blog/blog.component.html" />
+        <option value="$PROJECT_DIR$/blog/src/tsconfig.app.json" />
+        <option value="$PROJECT_DIR$/tsconfig.json" />
+        <option value="$PROJECT_DIR$/blog/src/app/services/data.service.ts" />
+        <option value="$PROJECT_DIR$/blog/src/app/components/blog-home/blog-home.component.html" />
+        <option value="$PROJECT_DIR$/blog/src/app/components/add-post/add-post.component.html" />
+        <option value="$PROJECT_DIR$/blog/api/DAO/postDAO.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="509" />
     <option name="y" value="149" />
     <option name="width" value="1200" />
@@ -184,6 +131,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,96 +143,33 @@
             <path>
               <item name="TAI_LAB8" type="b2602c69:ProjectViewProjectNode" />
               <item name="TAI_LAB8" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TAI_LAB8" type="b2602c69:ProjectViewProjectNode" />
               <item name="TAI_LAB8" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TAI_LAB8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TAI_LAB8" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TAI_LAB8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TAI_LAB8" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TAI_LAB8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TAI_LAB8" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TAI_LAB8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TAI_LAB8" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TAI_LAB8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TAI_LAB8" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="blog-home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TAI_LAB8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TAI_LAB8" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TAI_LAB8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TAI_LAB8" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TAI_LAB8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TAI_LAB8" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560163105889" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560168034396" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zajkos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Users\erazer\Desktop\Projekty\projekt\TAI_LAB8\blog\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\erazer\Desktop\Projekty\projekt\TAI_LAB8\blog" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\erazer\Projekty\TAI_LAB5\blog\api" />
       <recent name="C:\Users\erazer\Projekty\TAI_LAB5\api\app" />
@@ -327,17 +213,17 @@
       <workItem from="1559314041120" duration="611000" />
       <workItem from="1559892531993" duration="929000" />
       <workItem from="1560157718502" duration="4137000" />
+      <workItem from="1560163264709" duration="4203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27760000" />
+    <option name="totallyTimeSpent" value="32239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15191898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -355,7 +241,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="TypeScript" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.36078006" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.248104" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -381,9 +267,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Lab9" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/api/.babelrc" />
-    <entry file="file://$PROJECT_DIR$/api/app/app.js" />
-    <entry file="file://$PROJECT_DIR$/api/REST/routes.js" />
     <entry file="file://$PROJECT_DIR$/api/REST/post.endpoint.js" />
     <entry file="file://$PROJECT_DIR$/api/business/business.container.js" />
     <entry file="file://$PROJECT_DIR$/api/business/post.manager.js" />
@@ -475,16 +358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/services/data.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -526,16 +399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/api/DAO/postDAO.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
-          <folding>
-            <element signature="e#15#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/api/business/business.container.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -557,23 +420,6 @@
           <folding>
             <element signature="e#15#45#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/add-post/add-post.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/add-post/add-post.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -613,30 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/services/interceptor-auth.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="8" selection-start-column="56" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-home/blog-home.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-home/blog-home.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/components/login/login.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -647,17 +469,20 @@
     <entry file="file://$PROJECT_DIR$/blog/src/app/components/login/login.component.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog/blog.component.html">
+    <entry file="file://$PROJECT_DIR$/blog/src/app/services/interceptor-auth.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="119">
+          <caret line="9" column="5" selection-start-line="8" selection-start-column="56" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog/blog.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="476">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="e#0#77#0" expanded="true" />
           </folding>
@@ -666,10 +491,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/src/app/app-routing.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
+        <state relative-caret-position="661">
           <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog/blog.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/tsconfig.app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-home/blog-home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/services/data.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/blog-home/blog-home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="78" selection-start-column="78" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/add-post/add-post.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/src/app/components/add-post/add-post.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/api/DAO/postDAO.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="e#15#47#0" expanded="true" />
           </folding>
         </state>
       </provider>
